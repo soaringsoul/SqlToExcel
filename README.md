@@ -1,8 +1,5 @@
----
-typora-root-url: ./
----
 
-# mysql导出小工具
+# mysql导数辅助小工具
 
 2016年时使用pyqt5编写的一个mysql导出数据的小工具，可以将mysql的查询结果导出为excel或者csv文件。
 
